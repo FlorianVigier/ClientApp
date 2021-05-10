@@ -20,7 +20,7 @@ public class HomeViewModel extends ViewModel {
     String ClientAppId = "clientapp-hqokj";
     App ClientApp = new App(new AppConfiguration.Builder(ClientAppId).build());
 
-    private MutableLiveData<String> mText;
+    private MutableLiveData<String> mText = new MutableLiveData<>();
 
     public HomeViewModel() {
 
