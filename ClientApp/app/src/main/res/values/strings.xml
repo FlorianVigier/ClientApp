@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ClientApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_history">Historique"</string>
+    <string name="title_eco">Foot print</string>
+    <string name="title_account">Votre compte</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Validation</string>
+    <string name="action_register">Créer un nouveau compte ? Part ici ...</string>
+    <string name="action_forgottenPassword">Un mot de passe oublié ?</string>
+    <string name="action_sendNewPassword">Un nouveau mot de passe tout neuf ?</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_validateChange">Valider les modifications</string>
+    <string name="prompt_firstname">Ton prénom</string>
+    <string name="prompt_familyname">Ton nom de famille</string>
+    <string name="prompt_preferedShop">Ton magasin préféré</string>
+
+</resources>
